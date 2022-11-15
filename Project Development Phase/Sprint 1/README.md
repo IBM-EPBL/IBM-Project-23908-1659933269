@@ -1,4 +1,4 @@
-# This is the readme that we created for to run the web application code through visual studio code
+#To run the web application code through visual studio code
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
